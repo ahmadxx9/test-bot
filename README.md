@@ -1,2 +1,0 @@
-# test-bot
-Line bot
